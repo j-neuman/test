@@ -19,7 +19,7 @@ namespace TestProgram
 
         private void testButton_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("This is the program master");
+            MessageBox.Show("This is the Form1 branch");
         }
 
         private void form2Button_Click(object sender, EventArgs e)
